@@ -1,0 +1,39 @@
+body{margin: 0;
+    background-color: burlywood;
+    background-repeat: no-repeat;
+    background-size: cover;}
+
+#barra{ height: 103px;
+        width: 100%;
+        background-color: white;}
+
+#paginas{ list-style: none;
+            display: flex;
+            gap: 200px;}
+        
+#logo{ height: 30px;
+            width: 90px;}
+        
+#textoc{ color: #fcbc18;
+            padding-top: 30px;
+            font-weight: 500;
+            font-size: 40px;
+            padding-left: 15px;}
+
+a{text-decoration: none;
+    color: #fcbc18;
+
+}
+
+#item{ padding-top: 20px;
+    padding-left: 20px ;
+    font-size: 50px;
+    color: black;
+    text-align: left;
+
+}
+
+hr{width: 30%;
+border-color: black; 
+margin: 0;
+  }
